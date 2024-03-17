@@ -1,5 +1,5 @@
 <h3>Me</h3>
-<p>Hi, Im shawngmy, come from china, now living and working in shanghai, 30 years old, have 3 cats, web2 backend developer, spare time interest in web3 scripts code, good at evm</p>
+<p>Hi, Im shawngmy, come from china, now living and working in shanghai, 30 years old, have 3 cats, web2 backend developer, spare time intrested in web3 scripts code, good at evm</p>
 <h3>Preview</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=satisfywithmylife&show_icons=true&theme=transparent" /> 
