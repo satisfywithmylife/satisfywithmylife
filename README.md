@@ -25,6 +25,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%239a60fe?style=flat-square&logo=vite&logoColor=%23fff">  -->
 <!--   <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23c66394?style=flat-square&logo=Sass&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white">  -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/web3-black?style=flat-square&logo=ethereum&logoColor=white">
 </span>
 
 <h3>Find me</h3>
