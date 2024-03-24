@@ -35,6 +35,7 @@
 </p>
 
 <h3>Donate</h3>
-
-[![ENS](https://img.shields.io/badge/ENS-0xredhat.eth-blue)](https://app.ens.domains/name/0xredhat.eth)
+<a href="https://app.ens.domains/name/0xredhat.eth" target="_blank"><img alt="ens" src="https://img.shields.io/badge/ENS-0xredhat.eth-blue?&style=flat-square&logo=ethereum&logoColor=white" />
+  
+<!--[![ENS](https://img.shields.io/badge/ENS-0xredhat.eth-blue)](https://app.ens.domains/name/0xredhat.eth)-->
 
