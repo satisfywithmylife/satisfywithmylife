@@ -28,5 +28,12 @@
 </span>
 
 <h3>Find me</h3>
-<p><a href="https://github.com/satisfywithmylife" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/shawngmy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<p>
+  <a href="https://github.com/satisfywithmylife" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/shawngmy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </p>
+
+<h3>Donate</h3>
+
+[![ENS](https://img.shields.io/badge/ENS-0xredhat.eth-blue)](https://app.ens.domains/name/0xredhat.eth)
+
